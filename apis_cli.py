@@ -11,4 +11,3 @@ if __name__ == '__main__':
 @apis.command()
 def entries(no_auth: bool):
     """List all cataloged APIs."""
-
